@@ -1,1 +1,2 @@
 4 file text
+This file was modified in new branch
